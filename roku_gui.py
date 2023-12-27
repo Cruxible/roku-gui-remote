@@ -8,7 +8,7 @@ gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk
 
 class MySexyVariables:
-    roku_ip = '192.168.1.239'  # Replace with your Roku TV's IP address
+    roku_ip = 'your ip address'  # Replace with your Roku TV's IP address
     calls_list = [
                 "youtube",
                 "on",
